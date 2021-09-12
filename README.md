@@ -1,4 +1,4 @@
-# git_mobile_app
+# Flutter-Application
 
 A new Flutter project.
 
@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-The name of project repository is git_mobile_app
+The name of project repository is Flutter-Application
